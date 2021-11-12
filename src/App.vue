@@ -192,7 +192,7 @@ input[type="search"] {
   }
 
   .u-m-bottom {
-    margin-bottom: 14px;
+    margin-bottom: 20px;
   }
 
   h3 {
@@ -218,7 +218,7 @@ input[type="search"] {
     width: 60%;
     padding: 10px;
     font-size: 14px;
-    margin: 10px 0;
+    margin: 10px 7px 10px 0;
   }
 
   .button-weather {
