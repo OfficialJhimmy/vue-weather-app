@@ -61,7 +61,6 @@ export default {
       loading: false,
       url: "",
       info: {},
-      location: "lagos,Nigeria",
       api_key: "066406f5de7a4d93834e44a9e015ebc6",
       base_url: "https://api.openweathermap.org/data/2.5/",
     };
